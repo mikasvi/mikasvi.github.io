@@ -20,7 +20,7 @@ Here are some placeholders:
 - <sub>subscripts.</sub>
 - <sup>superscripts.</sup>
 
-###### Wow, so small text
+###### Lorem ipsum dolor sit amet
 
 
 
